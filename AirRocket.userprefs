@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\MainController.cs">
+    <Files>
+      <File FileName="Assets\Yurowm\Demo\Scripts\PlayerController.cs" Line="1" Column="1" />
+      <File FileName="Assets\GrassRoadRace\Script\CameraMove.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\EngineerController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Yurowm\Demo\Scripts\Actions.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\BarbarianController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\MainController.cs" Line="14" Column="3" />
+      <File FileName="Assets\Scripts\MaxController.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
